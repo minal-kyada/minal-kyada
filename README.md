@@ -2,7 +2,7 @@
 
 A passionate software developer with a knack for transforming the ordinary into extraordinary. Whether it's optimizing legacy systems or diving into cutting-edge technologies, my journey is a fusion of innovation and excellence. Here's how you can connect and explore more about me:
 
-- Check out my [website]() for a comprehensive overview.
+<!-- - Check out my [website]() for a comprehensive overview. -->
 - Explore my coding projects and insights on [GitHub](https://github.com/minal-kyada).
 - Stay updated with my professional journey on [LinkedIn](https://www.linkedin.com/in/minal-kyada/).
 - Optimize your development experience with my [VS Code Configuration](https://github.com/minal-kyada/vscode-settings).
@@ -17,12 +17,12 @@ Currently pursuing a **Master's in Computer Science** at Illinois Tech in Chicag
 
 ## 💻 Professional Wizardry
 
-#### Swiggy 🍟 | Senior Software Engineer | 2 years
+#### Swiggy 🍟 | Software Engineer II | 2 years
 
 - Developed microservices using Golang and Java, seamlessly integrating them with AWS Dynamo DB, SQS, SNS.
 - Orchestrated deployment on AWS through streamlined processes using AWS CodePipeline.
 
-#### Oracle 👩🏻‍💻  Associate Consultant | Fresh from College
+#### Oracle 👩🏻‍💻  Software Engineer I | Fresh from College
 
 - Initiated career at Oracle, focusing on service development for credit card and loan applications using Java and MySQL.
 - Deployed applications on the Oracle Cloud using GitHub CodePipeline.
