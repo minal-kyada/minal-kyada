@@ -17,12 +17,12 @@ Currently pursuing a **Master's in Computer Science** at Illinois Tech in Chicag
 
 ## 💻 Professional Wizardry
 
-#### Swiggy 🍟 | Software Engineer II | 2 years
+#### Swiggy 🍟 | Software Developer II | 2 years
 
 - Developed microservices using Golang and Java, seamlessly integrating them with AWS Dynamo DB, SQS, SNS.
 - Orchestrated deployment on AWS through streamlined processes using AWS CodePipeline.
 
-#### Oracle 👩🏻‍💻  Software Engineer I | Fresh from College
+#### Oracle 👩🏻‍💻  Software Developer | 2 years
 
 - Initiated career at Oracle, focusing on service development for credit card and loan applications using Java and MySQL.
 - Deployed applications on the Oracle Cloud using GitHub CodePipeline.
