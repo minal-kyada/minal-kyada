@@ -17,12 +17,17 @@ Currently pursuing a **Master's in Computer Science** at Illinois Tech in Chicag
 
 ## 💻 Professional Wizardry
 
-#### Swiggy 🍟 | Software Developer II | 2 years
+#### Intel Corporation 🍟 | Software Engineer Intern | 3 months
+
+- Designed and implemented an OS-agnostic throttling capability in a C#/.NET query engine middleware, released as a NuGet Package, which reduced server loads by 20% and query response times by 30%, and enabled dynamic configuration for selective throttling, improving system efficiency by 10%.
+- Integrated Prometheus and developed Grafana and ELK dashboards for IM Connect Pub Sub and IMCPS Rest, while automating Kafka Lag metrics collection using a Python script on GitHub Runner, which enhanced monitoring and system observability by 25%.
+
+#### Swiggy 🍟 | Software Engineer II | 2 years
 
 - Developed microservices using Golang and Java, seamlessly integrating them with AWS Dynamo DB, SQS, SNS.
 - Orchestrated deployment on AWS through streamlined processes using AWS CodePipeline.
 
-#### Oracle 👩🏻‍💻  Software Developer | 2 years
+#### Oracle 👩🏻‍💻  Software Engineer | 2 years
 
 - Initiated career at Oracle, focusing on service development for credit card and loan applications using Java and MySQL.
 - Deployed applications on the Oracle Cloud using GitHub CodePipeline.
@@ -40,6 +45,10 @@ Currently pursuing a **Master's in Computer Science** at Illinois Tech in Chicag
 - **Creative Passion:** Avid about Sketching, Painting, and Digital Art.
 
 ## 🚀 Galactic Projects
+
+#### 🩻 Image Classifier for Medical Diagnosis
+- Developed a CNN model using TensorFlow and Keras to classify X-ray images into medical categories with 92% accuracy, improving diagnostic efficiency on the NIH Chest X-ray Dataset.
+- Deployed the model in a Flask-based web app on AWS Elastic Beanstalk, enabling medical professionals to upload images and view predictions, reducing diagnostic time by 20%.
 
 #### 💰 Splitzee | React JS, Java, MySQL, Docker, Prometheus, Grafana
 - Crafted a web potion for shared expenses, reducing manual tracking efforts by 20%.
